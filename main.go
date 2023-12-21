@@ -7,6 +7,7 @@ import (
 
 func main() {
 	protogen.Options{}.Run(func(gen *protogen.Plugin) error {
+		// 遍历所有要生成的proto文件
 		for _, f := range gen.Files {
 			if !f.Generate {
 				continue
