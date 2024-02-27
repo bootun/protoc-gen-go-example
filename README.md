@@ -4,6 +4,6 @@ protoc-gen-go-example
 使用go标准库`net/http`作为传输框架，从.proto文件生成框架代码。
 
 ## 关于
-文章首发于微信公众号**梦真日记**，欢迎关注。  
+文章首发于微信公众号**比特要塞**，欢迎关注。  
 
 <img src="qrcode.jpg" width="300">
